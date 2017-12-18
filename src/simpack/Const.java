@@ -1,0 +1,46 @@
+package simpack;
+
+public class Const {
+    public static final int MAX_TOKENS = 100;
+    public static final int MAX_SERVERS = 100;
+    public static final int MAX_FACILITIES = 100;
+    public static final int MAX_NUM_ATTR = 10;
+    public static final int HEAP_SIZE = 50000;
+    // public static final int CALQSPACE = 49153;
+    // public static final int MAXNBUCKETS = 32768;
+    public static final int UNIX = 1;
+    public static final int UNIXX = 0;
+    public static final int TURBOC = 0;
+    public static final int NIL = 0;
+    public static final int FREE = 0;
+    public static final int BUSY = 1;
+    public static final int ON = 1;
+    public static final int OFF = 0;
+    public static final int FOUND = 1;
+    public static final int NOT_FOUND = -1;
+    public static final int TIME_KEY = 0;
+    public static final int AHEAD_PRIORITY_KEY = 1;
+    public static final int BEHIND_PRIORITY_KEY = 2;
+    public static final int INTERACTIVE = 0;
+    public static final int BATCH = 1;
+    public static final int LINKED = 0;
+    public static final int HEAP = 1;
+    public static final int CALENDAR = 2;
+    public static final int HENRIK = 3;
+    public static final int INOMIAL = 4;
+    public static final int LEFTIST = 5;
+    public static final int PAGODA = 6;
+    public static final int PAIR = 7;
+    public static final int SKEWDN = 8;
+    public static final int SKEWUP = 9;
+    public static final int SPLAY = 10;
+    public static final int TWOLIST = 11;
+    public static final int REMOVE_DUPLICATES = 16;
+    public static final int RESEED = 32;
+    public static final int true_ = 1;
+    public static final int false_ = 0;
+    public static final int SYNC = 0;
+    public static final int ASYNC = 1;
+    public static final int DUPTIME = 0;
+    public static final int DEFTIME = 1;
+}
