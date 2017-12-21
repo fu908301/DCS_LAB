@@ -1,8 +1,8 @@
 /**
  * Ricart and Agrawala's Algoritm simulaton
  * ----------------------------------------
- * Student : Ä¬¤ý«³µ¾
- * Date    : 2016/12/15
+ * Student : ³Å¥¿¦w
+ * Date    : 2017/12/18
  * Major   : Distributed System
  * Filename: Richart.java
  */
